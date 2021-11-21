@@ -36,6 +36,11 @@
 			<optional>true</optional>
 		</dependency>
 		<dependency>
+            <groupId>org.springframework.security</groupId>
+            <artifactId>spring-security-core</artifactId>
+            <version>5.1.3.RELEASE</version>
+        </dependency>
+		<dependency>
       <groupId>org.springdoc</groupId>
       <artifactId>springdoc-openapi-ui</artifactId>
       <version>1.5.10</version>
