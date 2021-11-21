@@ -1,4 +1,4 @@
-package com.capstone.parking.main;
+package com.capstone.parking;
 
 import java.util.Arrays;
 

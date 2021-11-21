@@ -1,4 +1,4 @@
-package com.capstone.parking.main.entity;
+package com.capstone.parking.entity;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 

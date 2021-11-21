@@ -1,4 +1,4 @@
-package com.capstone.parking.main.controller;
+package com.capstone.parking.controller;
 
 
 import java.util.List;
@@ -16,8 +16,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
 
-import com.capstone.parking.main.entity.UserEntity;
-import com.capstone.parking.main.service.UserService;
+import com.capstone.parking.entity.UserEntity;
+import com.capstone.parking.service.UserService;
 
 @RestController
 public class PropertyController {

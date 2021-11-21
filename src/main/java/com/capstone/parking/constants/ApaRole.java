@@ -1,4 +1,4 @@
-package com.capstone.parking.main.constants;
+package com.capstone.parking.constants;
 
 public class ApaRole {
     public static final String ROLE_USER = "USER";

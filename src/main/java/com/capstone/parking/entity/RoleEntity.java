@@ -1,4 +1,4 @@
-package com.capstone.parking.main.entity;
+package com.capstone.parking.entity;
 
 import javax.persistence.*;
 import java.util.Objects;

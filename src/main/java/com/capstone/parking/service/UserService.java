@@ -1,4 +1,4 @@
-package com.capstone.parking.main.service;
+package com.capstone.parking.service;
 
 
 import java.net.URI;
@@ -10,8 +10,8 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
-import com.capstone.parking.main.entity.UserEntity;
-import com.capstone.parking.main.repository.UserRepository;
+import com.capstone.parking.entity.UserEntity;
+import com.capstone.parking.repository.UserRepository;
 
 @Service
 public class UserService {
